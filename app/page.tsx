@@ -11,11 +11,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Digital Creative
-          </li>
-        </ol>
+       <h1 className={'text-2xl font-bold'}>hallo Jama'ah masjid raden patah!!!!!!</h1>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a

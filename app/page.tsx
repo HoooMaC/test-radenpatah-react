@@ -11,7 +11,7 @@ export default function Home() {
           height={38}
           priority
         />
-       <h1 className={'text-2xl font-bold'}>hallo Jama'ah masjid raden patah!!!!!!</h1>
+       <h1 className={"text-2xl font-bold"}>hallo Jama&apos;ah masjid raden patah!!!!!!</h1>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
